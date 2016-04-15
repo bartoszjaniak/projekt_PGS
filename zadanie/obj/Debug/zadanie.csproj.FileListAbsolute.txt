@@ -1,0 +1,10 @@
+c:\users\bj\documents\visual studio 2013\Projects\asp\zadanie\zadanie\bin\Debug\zadanie.exe.config
+c:\users\bj\documents\visual studio 2013\Projects\asp\zadanie\zadanie\bin\Debug\zadanie.exe
+c:\users\bj\documents\visual studio 2013\Projects\asp\zadanie\zadanie\bin\Debug\zadanie.pdb
+c:\users\bj\documents\visual studio 2013\Projects\asp\zadanie\zadanie\obj\Debug\zadanie.csprojResolveAssemblyReference.cache
+c:\users\bj\documents\visual studio 2013\Projects\asp\zadanie\zadanie\obj\Debug\zadanie.Properties.Resources.resources
+c:\users\bj\documents\visual studio 2013\Projects\asp\zadanie\zadanie\obj\Debug\zadanie.csproj.GenerateResource.Cache
+c:\users\bj\documents\visual studio 2013\Projects\asp\zadanie\zadanie\obj\Debug\zadanie.exe
+c:\users\bj\documents\visual studio 2013\Projects\asp\zadanie\zadanie\obj\Debug\zadanie.pdb
+c:\users\bj\documents\visual studio 2013\Projects\asp\zadanie\zadanie\obj\Debug\zadanie.Magic.resources
+c:\users\bj\documents\visual studio 2013\Projects\asp\zadanie\zadanie\obj\Debug\zadanie.Wynik.resources
