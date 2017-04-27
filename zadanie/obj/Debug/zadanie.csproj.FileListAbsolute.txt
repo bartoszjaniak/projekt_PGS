@@ -8,3 +8,13 @@ c:\users\bj\documents\visual studio 2013\Projects\asp\zadanie\zadanie\obj\Debug\
 c:\users\bj\documents\visual studio 2013\Projects\asp\zadanie\zadanie\obj\Debug\zadanie.pdb
 c:\users\bj\documents\visual studio 2013\Projects\asp\zadanie\zadanie\obj\Debug\zadanie.Magic.resources
 c:\users\bj\documents\visual studio 2013\Projects\asp\zadanie\zadanie\obj\Debug\zadanie.Wynik.resources
+C:\Users\Bartosz Janiak\Projekty\projekt_PGS\zadanie\bin\Debug\zadanie.exe.config
+C:\Users\Bartosz Janiak\Projekty\projekt_PGS\zadanie\obj\Debug\zadanie.exe
+C:\Users\Bartosz Janiak\Projekty\projekt_PGS\zadanie\obj\Debug\zadanie.pdb
+C:\Users\Bartosz Janiak\Projekty\projekt_PGS\zadanie\bin\Debug\zadanie.exe
+C:\Users\Bartosz Janiak\Projekty\projekt_PGS\zadanie\bin\Debug\zadanie.pdb
+C:\Users\Bartosz Janiak\Projekty\projekt_PGS\zadanie\obj\Debug\zadanie.csprojResolveAssemblyReference.cache
+C:\Users\Bartosz Janiak\Projekty\projekt_PGS\zadanie\obj\Debug\zadanie.Magic.resources
+C:\Users\Bartosz Janiak\Projekty\projekt_PGS\zadanie\obj\Debug\zadanie.Properties.Resources.resources
+C:\Users\Bartosz Janiak\Projekty\projekt_PGS\zadanie\obj\Debug\zadanie.Wynik.resources
+C:\Users\Bartosz Janiak\Projekty\projekt_PGS\zadanie\obj\Debug\zadanie.csproj.GenerateResource.Cache
